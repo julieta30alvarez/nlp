@@ -1,0 +1,11 @@
+/* Estilos para los bloques de citas de Twitter */
+.twitter-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .twitter-tweet {
+    width: calc(50% - 10px); /* Para que haya un pequeño espacio entre los bloques */
+  }
+  
